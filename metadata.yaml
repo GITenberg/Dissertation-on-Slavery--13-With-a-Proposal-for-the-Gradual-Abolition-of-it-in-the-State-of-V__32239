@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34928'
     url: http://www.gutenberg.org/2009/agents/34928
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32239#Dissertation-on-Slavery--13-With-a-Proposal-for-the-Gradual-Abolition-of-it-in-the-State-of-V_
 gutenberg_issued: '2010-05-03'
 gutenberg_type: Text
 identifiers:
